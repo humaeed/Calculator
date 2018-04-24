@@ -13,3 +13,4 @@ Incomplete
 ========================
 * Memory functionality. 
 * KeyEvent for calculator.
+* Temperature conversion.
