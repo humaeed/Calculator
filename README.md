@@ -4,7 +4,7 @@ A standard calculator designed and implemented in C# on Visual Studio 2017.
 
 Screenshot
 ========================
-![screenshot 22](https://user-images.githubusercontent.com/33657583/39392364-1d40114a-4ad6-11e8-89cb-fce735743ea6.png)
+![screenshot 22](https://user-images.githubusercontent.com/33657583/39392370-4d412a50-4ad6-11e8-8bde-2abbdb24b88e.png)
 
 Feedback
 ========================
